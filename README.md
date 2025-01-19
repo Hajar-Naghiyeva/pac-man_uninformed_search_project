@@ -1,7 +1,10 @@
 # Pac-Man Uninformed Search Project
 
 ## Project Overview
-This project implements uninformed search algorithms (Breadth-First Search and Depth-First Search) for a Multi-Agent Pac-Man environment. The goal is to navigate Pac-Man from the starting point to the goal, exploring the maze efficiently using the specified search strategies.
+This project implements uninformed search algorithms (Breadth-First Search and Depth-First Search) for a Multi-Agent Pac-Man environment.
+BFS (Breadth First Search) finds the shortest path using the Queue data structure. DFS (Depth First Search) makes use of the Stack data structure.
+
+The goal is to navigate Pac-Man from the starting point to the goal, exploring the maze efficiently using the specified search strategies.
 
 The project is based on the Multi-Agent Pac-Man framework provided by Stanford University.
 
